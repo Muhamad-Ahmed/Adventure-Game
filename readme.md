@@ -20,7 +20,7 @@ A simple, interactive command-line dungeon adventure game programmed in TypeScri
 
 1. **Clone the repository:**
    ```sh
-   git clone <https://github.com/Muhamad-Ahmed/Adventure-Game.git>
+   git clone https://github.com/Muhamad-Ahmed/Adventure-Game.git
 
    cd Adventure-Game
    ```
